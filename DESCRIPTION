@@ -1,0 +1,15 @@
+Package: fReud
+Title: An app to explore the text of the complete work of Sigmund Freud (6 May 1856 - 23 September 1939)
+Version: 0.0.0.9000
+Authors@R: person('Lucien', 'Gyger', email = 'lucien.gyger@gmail.com', role = c('cre', 'aut'))
+Description: The app is designed to provide tools to explore the the text of the complete work of Sigmund Freud
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.2),
+    golem (>= 0.4.1),
+    shiny (>= 1.8.1.1)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+URL: https://github.com/gygl/fReud.git
+BugReports: https://github.com/gygl/fReud.git/issues
