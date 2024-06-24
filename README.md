@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# fReud
+# fReud <img src="inst/app/www/favicon.png" align="right" height="139" alt="" />
 
 <!-- badges: start -->
 
